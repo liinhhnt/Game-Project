@@ -1,0 +1,76 @@
+
+Zombie_8.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 4
+  size: 244, 262
+  orig: 244, 262
+  offset: 0, 0
+  index: -1
+Eyes_1
+  rotate: false
+  xy: 851, 17
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+Eyes_2
+  rotate: false
+  xy: 768, 11
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 266, 10
+  size: 233, 238
+  orig: 233, 238
+  offset: 0, 0
+  index: -1
+Foot_1
+  rotate: true
+  xy: 895, 182
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+Foot_2
+  rotate: false
+  xy: 895, 107
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+Hance_1
+  rotate: false
+  xy: 621, 100
+  size: 117, 148
+  orig: 117, 148
+  offset: 0, 0
+  index: -1
+Hance_2
+  rotate: true
+  xy: 768, 94
+  size: 154, 125
+  orig: 154, 125
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 501, 2
+  size: 265, 72
+  orig: 265, 72
+  offset: 0, 0
+  index: -1
+Vu_Khi
+  rotate: true
+  xy: 501, 76
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,2 @@
+D:\Coding\.vscode\Games\Zombie\obj\Debug\spine-unity-examples-editor.csproj.AssemblyReference.cache
+D:\Coding\.vscode\Games\Zombie\obj\Debug\spine-unity-examples-editor.csproj.CoreCompileInputs.cache

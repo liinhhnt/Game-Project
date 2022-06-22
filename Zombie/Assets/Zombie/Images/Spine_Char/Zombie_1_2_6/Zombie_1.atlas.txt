@@ -1,0 +1,195 @@
+
+Zombie_1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Zombie_1/Body
+  rotate: true
+  xy: 334, 13
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+Zombie_1/Eyes_1
+  rotate: false
+  xy: 2, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Zombie_1/Eyes_2
+  rotate: false
+  xy: 164, 5
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Zombie_1/Face
+  rotate: false
+  xy: 146, 113
+  size: 126, 141
+  orig: 126, 141
+  offset: 0, 0
+  index: -1
+Zombie_1/Foot_1
+  rotate: false
+  xy: 381, 98
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Zombie_6/Foot_1
+  rotate: false
+  xy: 381, 98
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Zombie_1/Foot_2
+  rotate: false
+  xy: 424, 137
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Zombie_6/Foot_2
+  rotate: false
+  xy: 424, 137
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Zombie_1/Hance_1
+  rotate: true
+  xy: 198, 77
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Zombie_1/Hance_2
+  rotate: false
+  xy: 262, 16
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Zombie_1/Shadow
+  rotate: false
+  xy: 2, 58
+  size: 140, 49
+  orig: 140, 49
+  offset: 0, 0
+  index: -1
+Zombie_2/Shadow
+  rotate: false
+  xy: 2, 58
+  size: 140, 49
+  orig: 140, 49
+  offset: 0, 0
+  index: -1
+Zombie_6/Shadow
+  rotate: false
+  xy: 2, 58
+  size: 140, 49
+  orig: 140, 49
+  offset: 0, 0
+  index: -1
+Zombie_2/Body
+  rotate: true
+  xy: 391, 172
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+Zombie_2/Eyes_1
+  rotate: false
+  xy: 58, 2
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Zombie_2/Eyes_2
+  rotate: true
+  xy: 144, 67
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+Zombie_2/Face
+  rotate: true
+  xy: 274, 133
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+Zombie_2/Foot_1
+  rotate: false
+  xy: 391, 137
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Zombie_2/Foot_2
+  rotate: false
+  xy: 457, 137
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Zombie_2/Hance_1
+  rotate: false
+  xy: 226, 16
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Zombie_2/Hance_2
+  rotate: false
+  xy: 298, 16
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Zombie_6/Body
+  rotate: true
+  xy: 414, 53
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+Zombie_6/Eyes_1
+  rotate: false
+  xy: 114, 8
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Zombie_6/Eyes_2
+  rotate: false
+  xy: 414, 23
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+Zombie_6/Face
+  rotate: true
+  xy: 2, 109
+  size: 145, 142
+  orig: 145, 142
+  offset: 0, 0
+  index: -1
+Zombie_6/Hance_1
+  rotate: true
+  xy: 259, 77
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+Zombie_6/Hance_2
+  rotate: true
+  xy: 320, 97
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1

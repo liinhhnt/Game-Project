@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: caef83ea62682594ca5b6789f8131962
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3601009797421737173
+    second: N_Door_Left_Enter_0
+  - first:
+      213: -1152626391821123374
+    second: N_Door_Left_Enter_2
+  - first:
+      213: 6665963673561433
+    second: N_Door_Left_Enter_4
+  - first:
+      213: -2221061457074499979
+    second: N_Door_Left_Enter_6
+  - first:
+      213: -8039174203188678764
+    second: N_Door_Left_Enter_8
+  - first:
+      213: -2803821245725327845
+    second: N_Door_Left_Enter_10
+  - first:
+      213: 7567055607573744718
+    second: N_Door_Left_Enter_12
+  - first:
+      213: -8716006843360508541
+    second: N_Door_Left_Enter_14
+  - first:
+      213: -7879392881733078620
+    second: N_Door_Left_Enter_16
+  - first:
+      213: -8618120844272504363
+    second: N_Door_Left_Enter_18
+  - first:
+      213: 8367754067792920144
+    second: N_Door_Left_Enter_20
+  - first:
+      213: 134223820022417301
+    second: N_Door_Left_Enter_22
+  - first:
+      213: -1701274574785900973
+    second: N_Door_Left_Enter_24
+  - first:
+      213: -4863748579550082939
+    second: N_Door_Left_Enter_26
+  - first:
+      213: 1219711875677094824
+    second: N_Door_Left_Enter_28
+  - first:
+      213: 2495251129559504575
+    second: N_Door_Left_Enter_30
+  - first:
+      213: -5034284145438551674
+    second: N_Door_Left_Enter_32
+  - first:
+      213: 6012011524944815379
+    second: N_Door_Left_Enter_34
+  - first:
+      213: -4453210648176393857
+    second: N_Door_Left_Enter_36
+  - first:
+      213: 6139810057990228971
+    second: N_Door_Left_Enter_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 907
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd9ff0ba4a60ec0800000000000000
+      internalID: -3601009797421737173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 907
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d003cc476c0100f0800000000000000
+      internalID: -1152626391821123374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_4
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 907
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95929dc98aea71000800000000000000
+      internalID: 6665963673561433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_6
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 907
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e43ca5f543d21e0800000000000000
+      internalID: -2221061457074499979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_8
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 907
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f6473d7ad1f6090800000000000000
+      internalID: -8039174203188678764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 622
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e39daae63d619d0800000000000000
+      internalID: -2803821245725327845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_12
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 622
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8f0dabf4930960800000000000000
+      internalID: 7567055607573744718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_14
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 622
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3858f9194f58a0780800000000000000
+      internalID: -8716006843360508541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_16
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 622
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1fe8ebbe5c6a290800000000000000
+      internalID: -7879392881733078620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_18
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 622
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d17fbdb0c8466880800000000000000
+      internalID: -8618120844272504363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 337
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e70aa8dfb302470800000000000000
+      internalID: 8367754067792920144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_22
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 337
+        width: 32
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59705d86adbdcd100800000000000000
+      internalID: 134223820022417301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_24
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 337
+        width: 42
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8b78b9cbd368e0800000000000000
+      internalID: -1701274574785900973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_26
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 337
+        width: 56
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5884b17af6e708cb0800000000000000
+      internalID: -4863748579550082939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_28
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 337
+        width: 73
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a30f061d794de010800000000000000
+      internalID: 1219711875677094824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 52
+        width: 76
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb659c29ea9e0a220800000000000000
+      internalID: 2495251129559504575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_32
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 49
+        width: 76
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68111c41e31a22ab0800000000000000
+      internalID: -5034284145438551674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_34
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 50
+        width: 79
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e3e101a4fe6350800000000000000
+      internalID: 6012011524944815379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_36
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 50
+        width: 86
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71857572840332c0800000000000000
+      internalID: -4453210648176393857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Door_Left_Enter_38
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 49
+        width: 107
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc0e6b7bcf43550800000000000000
+      internalID: 6139810057990228971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

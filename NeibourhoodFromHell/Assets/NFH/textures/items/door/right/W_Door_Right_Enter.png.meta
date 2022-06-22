@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 5fb2c7da3c3c1e0459e3835207627432
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4425634493759005542
+    second: W_Door_Right_Enter_0
+  - first:
+      213: -9036451871612671732
+    second: W_Door_Right_Enter_1
+  - first:
+      213: -565408438542627819
+    second: W_Door_Right_Enter_2
+  - first:
+      213: 8613196896398391095
+    second: W_Door_Right_Enter_3
+  - first:
+      213: 5121121908298040849
+    second: W_Door_Right_Enter_4
+  - first:
+      213: 3373613156668104919
+    second: W_Door_Right_Enter_5
+  - first:
+      213: 3265692887170136777
+    second: W_Door_Right_Enter_6
+  - first:
+      213: -1255709320806826918
+    second: W_Door_Right_Enter_7
+  - first:
+      213: 8069284424539570994
+    second: W_Door_Right_Enter_8
+  - first:
+      213: 2111473175120424129
+    second: W_Door_Right_Enter_9
+  - first:
+      213: 4111671764480450570
+    second: W_Door_Right_Enter_10
+  - first:
+      213: 638810094736523385
+    second: W_Door_Right_Enter_11
+  - first:
+      213: 7999060026999092618
+    second: W_Door_Right_Enter_12
+  - first:
+      213: -7060377410857223025
+    second: W_Door_Right_Enter_13
+  - first:
+      213: 8136815406667505694
+    second: W_Door_Right_Enter_14
+  - first:
+      213: 3359207606747827403
+    second: W_Door_Right_Enter_15
+  - first:
+      213: 2352001455038889147
+    second: W_Door_Right_Enter_16
+  - first:
+      213: 7105226682581335230
+    second: W_Door_Right_Enter_17
+  - first:
+      213: 6847270179900201062
+    second: W_Door_Right_Enter_18
+  - first:
+      213: 4936131216762253662
+    second: W_Door_Right_Enter_19
+  - first:
+      213: -9072829416320445131
+    second: W_Door_Right_Enter_20
+  - first:
+      213: 4471364559109046291
+    second: W_Door_Right_Enter_21
+  - first:
+      213: 2035875402750742930
+    second: W_Door_Right_Enter_22
+  - first:
+      213: -4124827251425786744
+    second: W_Door_Right_Enter_23
+  - first:
+      213: 4363190213019230175
+    second: W_Door_Right_Enter_24
+  - first:
+      213: -6988401884158514458
+    second: W_Door_Right_Enter_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_0
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1713
+        width: 32
+        height: 271
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a832cf130b6d30800000000000000
+      internalID: 4425634493759005542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1713
+        width: 32
+        height: 271
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09ec9266e2189280800000000000000
+      internalID: -9036451871612671732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_2
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1713
+        width: 44
+        height: 271
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c88a355044728f0800000000000000
+      internalID: -565408438542627819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_3
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1712
+        width: 84
+        height: 272
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737b25e41f8388770800000000000000
+      internalID: 8613196896398391095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_4
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1712
+        width: 87
+        height: 272
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11643932e31e11740800000000000000
+      internalID: 5121121908298040849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1303
+        width: 91
+        height: 271
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d069c4ba4b71de20800000000000000
+      internalID: 3373613156668104919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_6
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1300
+        width: 92
+        height: 274
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cabb45e062125d20800000000000000
+      internalID: 3265692887170136777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_7
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1296
+        width: 122
+        height: 278
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c79289603d29ee0800000000000000
+      internalID: -1255709320806826918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_8
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1300
+        width: 132
+        height: 274
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23306446e6bdbff60800000000000000
+      internalID: 8069284424539570994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_9
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1300
+        width: 132
+        height: 274
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca1db6aa57d4d10800000000000000
+      internalID: 2111473175120424129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 885
+        width: 132
+        height: 280
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a006cda6fa79f0930800000000000000
+      internalID: 4111671764480450570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 887
+        width: 121
+        height: 278
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97044b785628dd800800000000000000
+      internalID: 638810094736523385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 886
+        width: 109
+        height: 279
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85be46b6be520f60800000000000000
+      internalID: 7999060026999092618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_13
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 884
+        width: 112
+        height: 281
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb9adf620840e90800000000000000
+      internalID: -7060377410857223025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_14
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 885
+        width: 108
+        height: 280
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a75d6086cbe070800000000000000
+      internalID: 8136815406667505694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 472
+        width: 116
+        height: 283
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8efe358d4e9e20800000000000000
+      internalID: 3359207606747827403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 476
+        width: 128
+        height: 279
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc7bc6acdcf3a020800000000000000
+      internalID: 2352001455038889147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_17
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 484
+        width: 129
+        height: 272
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc33efc506da9260800000000000000
+      internalID: 7105226682581335230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_26
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 478
+        width: 131
+        height: 278
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021fee17c1ad78ef0800000000000000
+      internalID: -105876250514493152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_27
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 475
+        width: 122
+        height: 284
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae7fafc0ef517f90800000000000000
+      internalID: -6957674530149007701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 70
+        width: 117
+        height: 283
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96993c58198e730800000000000000
+      internalID: 4028629870381197734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Door_Right_Enter_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 70
+        width: 126
+        height: 280
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03a75a05cd787fd0800000000000000
+      internalID: -2343985320810798325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

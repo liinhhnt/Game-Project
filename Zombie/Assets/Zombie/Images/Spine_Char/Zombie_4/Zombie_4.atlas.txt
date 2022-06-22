@@ -1,0 +1,69 @@
+
+Zombie_4.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 89, 28
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+Eyes_1
+  rotate: true
+  xy: 89, 2
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Eyes_2
+  rotate: false
+  xy: 124, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 25, 6
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+Foot_1
+  rotate: false
+  xy: 144, 18
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Foot_2
+  rotate: false
+  xy: 144, 2
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+Hance_1
+  rotate: true
+  xy: 116, 9
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Hance_2
+  rotate: true
+  xy: 130, 17
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: true
+  xy: 2, 4
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1

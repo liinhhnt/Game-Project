@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: 804d2a6110ffbdd408d02d26cbcce411
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8218086100509581920
+    second: W_Sneak_0
+  - first:
+      213: -7998642434801676055
+    second: W_Sneak_1
+  - first:
+      213: -7002754404628792913
+    second: W_Sneak_2
+  - first:
+      213: 5890138864180588716
+    second: W_Sneak_3
+  - first:
+      213: 3385237871031358704
+    second: W_Sneak_4
+  - first:
+      213: -2750762437746337757
+    second: W_Sneak_5
+  - first:
+      213: -6464375710522876486
+    second: W_Sneak_6
+  - first:
+      213: 695191656453053781
+    second: W_Sneak_7
+  - first:
+      213: -2536427745551475144
+    second: W_Sneak_8
+  - first:
+      213: 3302098340794093875
+    second: W_Sneak_9
+  - first:
+      213: 5553004890251139245
+    second: W_Sneak_10
+  - first:
+      213: -6610489037830795150
+    second: W_Sneak_11
+  - first:
+      213: 8895783672374898609
+    second: W_Sneak_12
+  - first:
+      213: 3606807103730851577
+    second: W_Sneak_13
+  - first:
+      213: -7261437202116897129
+    second: W_Sneak_14
+  - first:
+      213: -8775554132627774005
+    second: W_Sneak_15
+  - first:
+      213: -5424635054486518853
+    second: W_Sneak_16
+  - first:
+      213: 6958169673292257344
+    second: W_Sneak_17
+  - first:
+      213: -3198432641426218626
+    second: W_Sneak_18
+  - first:
+      213: 4334584571703694654
+    second: W_Sneak_19
+  - first:
+      213: 2467076367071617132
+    second: W_Sneak_20
+  - first:
+      213: 504544419069286465
+    second: W_Sneak_21
+  - first:
+      213: -3321121958522497410
+    second: W_Sneak_22
+  - first:
+      213: 4926335710221264982
+    second: W_Sneak_23
+  - first:
+      213: 1649808501824727637
+    second: W_Sneak_24
+  - first:
+      213: -5496730709149549329
+    second: W_Sneak_25
+  - first:
+      213: -3413979884699446768
+    second: W_Sneak_26
+  - first:
+      213: -4201339617671018870
+    second: W_Sneak_27
+  - first:
+      213: 7090362779878620052
+    second: W_Sneak_28
+  - first:
+      213: -7968734806430881576
+    second: W_Sneak_29
+  - first:
+      213: 192581931324940796
+    second: W_Sneak_30
+  - first:
+      213: -2915580855886595536
+    second: W_Sneak_31
+  - first:
+      213: -3872274740878816133
+    second: W_Sneak_32
+  - first:
+      213: -2158599187628169844
+    second: W_Sneak_33
+  - first:
+      213: 5439557505108292940
+    second: W_Sneak_34
+  - first:
+      213: -4187123048719963812
+    second: W_Sneak_35
+  - first:
+      213: -3197890665376630097
+    second: W_Sneak_36
+  - first:
+      213: 7283173255793015870
+    second: W_Sneak_37
+  - first:
+      213: -1623573288065291267
+    second: W_Sneak_38
+  - first:
+      213: -2337258019126624099
+    second: W_Sneak_39
+  - first:
+      213: -4495383106859534402
+    second: W_Sneak_40
+  - first:
+      213: 5656615650765484939
+    second: W_Sneak_41
+  - first:
+      213: 3429789394184822436
+    second: W_Sneak_42
+  - first:
+      213: 1615665816394243215
+    second: W_Sneak_43
+  - first:
+      213: -4105383333753029300
+    second: W_Sneak_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: W_Sneak_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 782
+        width: 103
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad1d8d9b3e73fd80800000000000000
+      internalID: -8218086100509581920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 784
+        width: 102
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d74c851d1ff090800000000000000
+      internalID: -7998642434801676055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 788
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa97cce98f731de90800000000000000
+      internalID: -7002754404628792913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 786
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f435f61afdb150800000000000000
+      internalID: 5890138864180588716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 784
+        width: 101
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4160f68e7cafe20800000000000000
+      internalID: 3385237871031358704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 782
+        width: 106
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32854a4132453d9d0800000000000000
+      internalID: -2750762437746337757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 780
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdde9f7a8ce946a0800000000000000
+      internalID: -6464375710522876486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 660
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d13b5d021d5a900800000000000000
+      internalID: 695191656453053781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 658
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e95fb676cccccd0800000000000000
+      internalID: -2536427745551475144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_9
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 656
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331507812f863dd20800000000000000
+      internalID: 3302098340794093875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 654
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da81d6fc68c301d40800000000000000
+      internalID: 5553004890251139245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 655
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2705b747e33d244a0800000000000000
+      internalID: -6610489037830795150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_12
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 655
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf20ae3e1c247b70800000000000000
+      internalID: 8895783672374898609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 655
+        width: 81
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe9b3f73f3fd0230800000000000000
+      internalID: 3606807103730851577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 525
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796140166513a3b90800000000000000
+      internalID: -7261437202116897129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 525
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5a281e208f63680800000000000000
+      internalID: -8775554132627774005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 525
+        width: 99
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3033da823d7b4b0800000000000000
+      internalID: -5424635054486518853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 525
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481b7fa372609060800000000000000
+      internalID: 6958169673292257344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 525
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71a6c96572ec93d0800000000000000
+      internalID: -3198432641426218626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_19
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 525
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35994dc3b9872c30800000000000000
+      internalID: 4334584571703694654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_20
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 525
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60a01d72e0dc3220800000000000000
+      internalID: 2467076367071617132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_21
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 395
+        width: 92
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148d708d970800700800000000000000
+      internalID: 504544419069286465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 392
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76548ebc2109e1d0800000000000000
+      internalID: -3321121958522497410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 394
+        width: 104
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6586f044a3cdd5440800000000000000
+      internalID: 4926335710221264982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 390
+        width: 110
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aaea2671c45e610800000000000000
+      internalID: 1649808501824727637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_25
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 390
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf82ffa80b7b3b0800000000000000
+      internalID: -5496730709149549329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_26
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 390
+        width: 101
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0121926026b1f90d0800000000000000
+      internalID: -3413979884699446768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_27
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 390
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8681fb90e7d1b5c0800000000000000
+      internalID: -4201339617671018870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 262
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bf057c167066260800000000000000
+      internalID: 7090362779878620052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 260
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d86569e9ed596190800000000000000
+      internalID: -7968734806430881576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 260
+        width: 99
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf128c60f303ca200800000000000000
+      internalID: 192581931324940796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 260
+        width: 97
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a33f2b8a6c987d0800000000000000
+      internalID: -2915580855886595536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 261
+        width: 98
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c433da3aae24ac0800000000000000
+      internalID: -3872274740878816133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 263
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e9f0c97d1b02e0800000000000000
+      internalID: -2158599187628169844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_34
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 263
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453a4b1bb03d7b40800000000000000
+      internalID: 5439557505108292940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 132
+        width: 95
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59223285c954e5c0800000000000000
+      internalID: -4187123048719963812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 132
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa30bb026fce93d0800000000000000
+      internalID: -3197890665376630097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 133
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cfa2dfc77031560800000000000000
+      internalID: 7283173255793015870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 132
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2e0252b8e779e0800000000000000
+      internalID: -1623573288065291267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_39
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 132
+        width: 94
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9046850734609fd0800000000000000
+      internalID: -2337258019126624099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_40
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 132
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77852c1e03d91c0800000000000000
+      internalID: -4495383106859534402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_41
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 132
+        width: 86
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83baced6f5508e40800000000000000
+      internalID: 5656615650765484939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aed9ce384f099f20800000000000000
+      internalID: 3429789394184822436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Sneak_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c9be5ff7ffb6610800000000000000
+      internalID: 1615665816394243215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

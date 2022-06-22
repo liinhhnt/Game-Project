@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "moveSpeed": 75.0,
+        "jumpForce": 251.0,
+        "addJumpSpeed": 51.0
+    },
+    {
+        "id": 2,
+        "moveSpeed": 85.0,
+        "jumpForce": 252.0,
+        "addJumpSpeed": 52.0
+    },
+    {
+        "id": 3,
+        "moveSpeed": 95.0,
+        "jumpForce": 253.0,
+        "addJumpSpeed": 53.0
+    },
+    {
+        "id": 4,
+        "moveSpeed": 115.0,
+        "jumpForce": 254.0,
+        "addJumpSpeed": 54.0
+    },
+    {
+        "id": 5,
+        "moveSpeed": 125.0,
+        "jumpForce": 255.0,
+        "addJumpSpeed": 55.0
+    },
+    {
+        "id": 6,
+        "moveSpeed": 135.0,
+        "jumpForce": 256.0,
+        "addJumpSpeed": 56.0
+    },
+    {
+        "id": 7,
+        "moveSpeed": 145.0,
+        "jumpForce": 257.0,
+        "addJumpSpeed": 57.0
+    }
+]

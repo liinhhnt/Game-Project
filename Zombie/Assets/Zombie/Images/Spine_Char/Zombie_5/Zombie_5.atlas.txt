@@ -1,0 +1,83 @@
+
+Zombie_5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 185, 3
+  size: 94, 109
+  orig: 94, 109
+  offset: 0, 0
+  index: -1
+Eyes_1
+  rotate: false
+  xy: 148, 99
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Eyes_2
+  rotate: true
+  xy: 186, 103
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 148, 137
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1
+Face_2
+  rotate: false
+  xy: 263, 205
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+Foot_1
+  rotate: true
+  xy: 2, 52
+  size: 40, 99
+  orig: 40, 99
+  offset: 0, 0
+  index: -1
+Foot_2
+  rotate: true
+  xy: 2, 10
+  size: 40, 99
+  orig: 40, 99
+  offset: 0, 0
+  index: -1
+Foot_3
+  rotate: false
+  xy: 103, 16
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+Foot_4
+  rotate: false
+  xy: 144, 16
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 94
+  size: 144, 160
+  orig: 144, 160
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 103, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1

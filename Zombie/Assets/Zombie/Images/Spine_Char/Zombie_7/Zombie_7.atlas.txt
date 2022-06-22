@@ -1,0 +1,83 @@
+
+Zombie_7.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 227, 71
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+Eyes_1
+  rotate: false
+  xy: 233, 15
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Eyes_2
+  rotate: false
+  xy: 165, 69
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Face
+  rotate: true
+  xy: 76, 131
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+Foot_1
+  rotate: true
+  xy: 76, 54
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Foot_2
+  rotate: true
+  xy: 111, 54
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+Ground
+  rotate: true
+  xy: 2, 53
+  size: 201, 72
+  orig: 201, 72
+  offset: 0, 0
+  index: -1
+Hance_1
+  rotate: true
+  xy: 76, 87
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+Hance_2
+  rotate: true
+  xy: 144, 10
+  size: 42, 87
+  orig: 42, 87
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 185, 155
+  size: 124, 99
+  orig: 124, 99
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 2
+  size: 140, 49
+  orig: 140, 49
+  offset: 0, 0
+  index: -1
